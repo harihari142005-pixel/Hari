@@ -98,7 +98,7 @@ Enhancing UX through filters and real-time task updates
 
 👨‍💻 Author
 
-Thanushkumar
+Hari
 📧 Email: [harihari142005@gamil.com]
 🌐 GitHub: harihari142005-pixel https://github.com/harihari142005-pixel/Hari.git
 
