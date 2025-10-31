@@ -101,7 +101,7 @@ Enhancing UX through filters and real-time task updates
 
 Thanushkumar
 📧 Email: [harihari142005@gamil.com]
-🌐 GitHub: hari-design https://github.com/harihari142005-pixel/Hari.git
+🌐 GitHub: harihari142005-pixel https://github.com/harihari142005-pixel/Hari.git
 
 
 ---
