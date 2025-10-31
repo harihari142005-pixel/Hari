@@ -1,4 +1,3 @@
-To do list application
 📝 To-Do List Application
 
 A simple and responsive To-Do List Web App built using HTML, CSS, and JavaScript.
